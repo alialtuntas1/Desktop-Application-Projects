@@ -1,0 +1,20 @@
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\bin\Debug\HesapMakimesi.exe.config
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\bin\Debug\HesapMakimesi.exe
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\bin\Debug\HesapMakimesi.pdb
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\obj\Debug\HesapMakimesi.csproj.AssemblyReference.cache
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\obj\Debug\HesapMakimesi.Form1.resources
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\obj\Debug\HesapMakimesi.Properties.Resources.resources
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\obj\Debug\HesapMakimesi.csproj.GenerateResource.cache
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\obj\Debug\HesapMakimesi.csproj.CoreCompileInputs.cache
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\obj\Debug\HesapMakimesi.exe
+C:\Users\alial\OneDrive\Desktop\Ali'nin Klasörü\Uygulamalar\Görsel Programlama\HesapMakimesi\obj\Debug\HesapMakimesi.pdb
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\obj\Debug\HesapMakimesi.csproj.AssemblyReference.cache
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\obj\Debug\HesapMakimesi.Form1.resources
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\obj\Debug\HesapMakimesi.Properties.Resources.resources
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\obj\Debug\HesapMakimesi.csproj.GenerateResource.cache
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\obj\Debug\HesapMakimesi.csproj.CoreCompileInputs.cache
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\obj\Debug\HesapMakimesi.exe
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\obj\Debug\HesapMakimesi.pdb
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\bin\Debug\HesapMakimesi.exe.config
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\bin\Debug\HesapMakimesi.exe
+C:\Users\alial\Belgeler\Projeler\Görsel Programlama\HesapMakinesi\bin\Debug\HesapMakimesi.pdb
